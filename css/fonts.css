@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Redemption';
+    src: local('Redemption'), local('Redemption'),
+        url('../fonts/Redemption.ttf') format('ttf'),
+        url('../fonts/Redemption.otf') format('otf');
+    font-weight: normal;
+    font-style: normal;
+}
